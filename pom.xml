@@ -15,6 +15,13 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
 
+  <repositories>
+    <repository>
+      <id>monkeybymonkey-snapshot</id>
+      <url>https://repository-monkeybymonkey.forge.cloudbees.com/snapshot/</url>
+    </repository>
+  </repositories>
+
   <dependencies>
     <dependency>
       <groupId>com.google.android</groupId>
