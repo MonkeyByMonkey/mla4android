@@ -17,8 +17,8 @@
 
   <repositories>
     <repository>
-      <id>monkeybymonkey-snapshot</id>
-      <url>https://repository-monkeybymonkey.forge.cloudbees.com/snapshot/</url>
+      <id>protomouse-snapshots</id>
+      <url>https://repo.protomou.se/artifactory/snapshots/</url>
     </repository>
   </repositories>
 
