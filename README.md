@@ -1,4 +1,4 @@
-[![Build Status](https://monkeybymonkey.ci.cloudbees.com/buildStatus/icon?job=mla4android)](https://monkeybymonkey.ci.cloudbees.com/job/mla4android)
+[![Build Status](https://ci.protomou.se:443/buildStatus/icon?job=mla4android)](https://ci.protomou.se:443/job/mla4android/)
 
 monkey loopable audio format, android loader
 
